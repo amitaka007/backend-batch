@@ -1,0 +1,70 @@
+
+
+### Queries
+
+1. **Get All Todos**:
+```graphql
+query GetAllTodos {
+  getTodos {
+    title
+  }
+}
+```
+
+2. **Get All Users**:
+```graphql
+query GetAllUsers {
+  getAllUsers {
+    name
+    username
+  }
+}
+```
+
+3. **Get a Specific User** (based on `id`):
+```graphql
+query GetUser($id: ID!) {
+  getUser(id: $id) {
+    name
+  }
+}
+```
+
+You can replace the `$id` variable with any user ID to get the details of a specific user.
+
+### Mutations
+
+1. **Create Todo**:
+```graphql
+mutation CreateTodo($title: String!, $userId: ID!) {
+  createTodo(title: $title, userId: $userId) {
+    id
+    title
+    completed
+  }
+}
+```
+
+You need to provide `title` (the title of the todo) and `userId` (the ID of the user to whom the todo belongs).
+
+2. **Update Todo**:
+```graphql
+mutation UpdateTodo($id: ID!, $title: String, $completed: Boolean) {
+  updateTodo(id: $id, title: $title, completed: $completed) {
+    id
+    title
+    completed
+  }
+}
+```
+
+You can pass `id` (the ID of the todo), `title` (the new title of the todo), and `completed` (a boolean to indicate if the todo is completed).
+
+3. **Delete Todo**:
+```graphql
+mutation DeleteTodo($id: ID!) {
+  deleteTodo(id: $id)
+}
+```
+
+You need to provide the `id` of the todo to be deleted. It returns a success message.

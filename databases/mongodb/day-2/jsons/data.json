@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 25.99,
+      "stock": 150,
+      "description": "Ergonomic wireless mouse with adjustable DPI and silent clicks."
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 49.99,
+      "stock": 85,
+      "description": "Portable speaker with high-quality sound and 10-hour battery life."
+    },
+    {
+      "id": 3,
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": 20.00,
+      "stock": 200,
+      "description": "Non-slip yoga mat made with eco-friendly materials."
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "category": "Apparel",
+      "price": 75.00,
+      "stock": 120,
+      "description": "Lightweight running shoes with advanced cushioning technology."
+    },
+    {
+      "id": 5,
+      "name": "Stainless Steel Water Bottle",
+      "category": "Kitchen",
+      "price": 15.99,
+      "stock": 300,
+      "description": "Durable and insulated water bottle, keeps drinks cold for 12 hours."
+    },
+    {
+      "id": 6,
+      "name": "Gaming Keyboard",
+      "category": "Electronics",
+      "price": 55.00,
+      "stock": 95,
+      "description": "Mechanical keyboard with customizable RGB lighting."
+    },
+    {
+      "id": 7,
+      "name": "Smartwatch",
+      "category": "Electronics",
+      "price": 199.99,
+      "stock": 60,
+      "description": "Feature-packed smartwatch with heart rate monitoring and GPS."
+    },
+    {
+      "id": 8,
+      "name": "Graphic T-Shirt",
+      "category": "Apparel",
+      "price": 18.99,
+      "stock": 250,
+      "description": "Soft cotton T-shirt with a stylish graphic print."
+    },
+    {
+      "id": 9,
+      "name": "Noise-Cancelling Headphones",
+      "category": "Electronics",
+      "price": 120.00,
+      "stock": 70,
+      "description": "Over-ear headphones with active noise cancellation."
+    },
+    {
+      "id": 10,
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "price": 450.00,
+      "stock": 30,
+      "description": "Compact digital camera with 20MP sensor and 4K video recording."
+    },
+    {
+      "id": 11,
+      "name": "Office Chair",
+      "category": "Furniture",
+      "price": 130.00,
+      "stock": 40,
+      "description": "Ergonomic office chair with lumbar support and adjustable height."
+    },
+    {
+      "id": 12,
+      "name": "Fitness Tracker",
+      "category": "Fitness",
+      "price": 89.99,
+      "stock": 90,
+      "description": "Wearable fitness tracker with step counting and sleep analysis."
+    },
+    {
+      "id": 13,
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "price": 35.00,
+      "stock": 180,
+      "description": "Premium leather wallet with RFID-blocking technology."
+    },
+    {
+      "id": 14,
+      "name": "Laptop Stand",
+      "category": "Electronics",
+      "price": 29.99,
+      "stock": 110,
+      "description": "Adjustable laptop stand for better ergonomics."
+    },
+    {
+      "id": 15,
+      "name": "Electric Kettle",
+      "category": "Kitchen",
+      "price": 24.99,
+      "stock": 150,
+      "description": "Quick-boil electric kettle with automatic shut-off."
+    },
+    {
+      "id": 16,
+      "name": "Wireless Charger",
+      "category": "Electronics",
+      "price": 22.99,
+      "stock": 140,
+      "description": "Fast-charging pad compatible with all Qi-enabled devices."
+    },
+    {
+      "id": 17,
+      "name": "Cookware Set",
+      "category": "Kitchen",
+      "price": 99.00,
+      "stock": 55,
+      "description": "Non-stick cookware set including pots and pans."
+    },
+    {
+      "id": 18,
+      "name": "Travel Backpack",
+      "category": "Accessories",
+      "price": 65.00,
+      "stock": 80,
+      "description": "Water-resistant backpack with multiple compartments."
+    },
+    {
+      "id": 19,
+      "name": "LED Desk Lamp",
+      "category": "Furniture",
+      "price": 19.99,
+      "stock": 120,
+      "description": "Dimmable LED desk lamp with touch controls."
+    },
+    {
+      "id": 20,
+      "name": "Air Fryer",
+      "category": "Kitchen",
+      "price": 110.00,
+      "stock": 45,
+      "description": "Oil-free air fryer for healthier cooking."
+    },
+    {
+      "id": 21,
+      "name": "Wristwatch",
+      "category": "Accessories",
+      "price": 59.99,
+      "stock": 150,
+      "description": "Stylish wristwatch with leather strap."
+    },
+    {
+      "id": 22,
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "price": 30.00,
+      "stock": 170,
+      "description": "UV-protective polarized sunglasses."
+    },
+    {
+      "id": 23,
+      "name": "Foam Roller",
+      "category": "Fitness",
+      "price": 20.00,
+      "stock": 200,
+      "description": "Foam roller for muscle recovery and stretching."
+    },
+    {
+      "id": 24,
+      "name": "E-Book Reader",
+      "category": "Electronics",
+      "price": 120.00,
+      "stock": 50,
+      "description": "E-book reader with glare-free display and adjustable lighting."
+    },
+    {
+      "id": 25,
+      "name": "Portable Power Bank",
+      "category": "Electronics",
+      "price": 25.99,
+      "stock": 300,
+      "description": "Compact power bank with 10000mAh capacity."
+    }
+  ]
+  
